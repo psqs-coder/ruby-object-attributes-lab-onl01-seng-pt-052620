@@ -1,4 +1,4 @@
-class Dogs_name
+class Dog
   def intitialize (name) 
     @name= name 
   end
@@ -6,18 +6,9 @@ class Dogs_name
 def name 
   @name
 end
-
-
-
-
-
-def intitialize (snoopy.breed)
-  snoopy.breed= breed
 end
 
-def snoopy.breed 
-  @snoopy.breed
-end
+def name
 
 
 
