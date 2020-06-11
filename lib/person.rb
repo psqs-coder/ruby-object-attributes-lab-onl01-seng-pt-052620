@@ -4,6 +4,19 @@ class Person
     @name = name
   end
   
-  def
+  def name
+    @name
+  end
+end
+
+def jobs = (job)
+  @job = job
+end
+
+def job
+  @job
+end
+end
+  
   
   
