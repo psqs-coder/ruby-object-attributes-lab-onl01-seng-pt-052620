@@ -8,7 +8,6 @@ def name
 end
 end
 
-def name
 
 
 
